@@ -18,21 +18,18 @@ body {
   background-position: center;
   background-repeat: repeat;
   background-size: 4%;
+}
+
+.hero {
   height: 100vh;
-  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .section-center {
-  position: absolute;
-  top: 50%;
-  left: 0;
-  display: block;
-  width: 100%;
-  padding: 0;
-  margin: 0;
-  z-index: 6;
   text-align: center;
-  transform: translateY(-50%);
 }
 
 h1 {
@@ -46,6 +43,17 @@ h1 {
   text-stroke: 2px #ffeba7;
   -webkit-text-fill-color: transparent;
   text-fill-color: transparent;
+  margin-bottom: 0.5em;
+}
+
+.social-icons {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.social-icons a {
+  margin: 0 10px;
 }
 
 [type="checkbox"]:checked,
