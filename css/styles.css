@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 
-body {
+.hero {
   font-family: 'Montserrat', sans-serif;
   font-weight: 300;
   font-size: 15px;
@@ -18,9 +18,6 @@ body {
   background-position: center;
   background-repeat: repeat;
   background-size: 4%;
-}
-
-.hero {
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -28,9 +25,6 @@ body {
   align-items: center;
 }
 
-.section-center {
-  text-align: center;
-}
 
 h1 {
   font-family: 'Montserrat', sans-serif;
@@ -381,3 +375,4 @@ h1 {
 }
 
 /* End of CSS */
+
