@@ -1,0 +1,68 @@
+.about-me-section {
+    padding: 80px 0;
+    background-color: #1f2029;
+    color: #ececee;
+    text-align: center;
+  }
+  
+  .about-me-section h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 3rem;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #ffeba7;
+  }
+  
+  .about-me-section p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin-top: 30px;
+  }
+  
+  .about-me-section .avatar {
+    margin-top: 40px;
+    border-radius: 50%;
+    width: 150px; 
+    height: 150px;
+    object-fit: cover;
+    border: 3px solid #ffeba7;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Section Center for centering content */
+  .section-center {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  /* Additional styling for emphasis and spacing */
+  .about-me-section:before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #ffeba7;
+    margin: 20px auto;
+  }
+  
+  /* Responsive adjustments */
+  @media screen and (max-width: 768px) {
+    .about-me-section h2 {
+      font-size: 2.5rem;
+    }
+    
+    .about-me-section p {
+      font-size: 1rem;
+    }
+    
+    .about-me-section .avatar {
+      width: 120px;
+      height: 120px;
+    }
+  }
+  
