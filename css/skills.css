@@ -175,6 +175,7 @@ html, .skills-section {
     text-transform: uppercase;
     color: white;
     background-color: #1e2029;
+    padding: 20px;
 }
 
 .skills__list {
