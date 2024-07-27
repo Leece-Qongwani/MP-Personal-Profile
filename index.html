@@ -187,23 +187,23 @@
                 <div class="app-contact">CONTACT INFO : +27 76 072 2175</div>
               </div>
               <div class="screen-body-item">
-                <div class="app-form">
+                <form action="https://formspree.io/f/xvoeykjl" method="POST" class="app-form">
                   <div class="app-form-group">
                     <input class="app-form-control" placeholder="NAME" value="MP Qongwani">
                   </div>
                   <div class="app-form-group">
-                    <input class="app-form-control" placeholder="EMAIL">
+                    <input class="app-form-control" placeholder="EMAIL" name="contactName" required>
                   </div>
                   <div class="app-form-group">
-                    <input class="app-form-control" placeholder="CONTACT NO">
+                    <input class="app-form-control" placeholder="CONTACT NO" name="contactEmail" required>
                   </div>
                   <div class="app-form-group message">
-                    <input class="app-form-control" placeholder="MESSAGE">
+                    <input class="app-form-control" placeholder="MESSAGE" name="contactMessage" required>
                   </div>
                   <div class="app-form-group buttons">
-                    <button class="app-form-button">SEND</button>
+                    <button type="submit" class="app-form-button" >SEND</button>
                   </div>
-                </div>
+                </form>
               </div>
             </div>
           </div>
