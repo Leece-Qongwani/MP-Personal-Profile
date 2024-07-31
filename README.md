@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Leece-Qongwani/MP-Personal-Profile.git
 Navigate to the project directory:
-bash
+```bash
 Copy code
 cd MP-Personal-Profile
 Open the index.html file in your browser to view the website.
@@ -57,11 +57,9 @@ Skills: List of technical skills.
 Projects: Details of notable projects.
 Resume/CV: Link to view and download resume.
 Contact: Ways to get in touch.
-Folder Structure
-The folder structure of the project is as follows:
 
-css
-Copy code
+## Folder Structure
+The folder structure of the project is as follows:
 MP-Personal-Profile/
 ├── css/
 │   ├── styles.css
@@ -74,6 +72,7 @@ MP-Personal-Profile/
 │   └── profilepic.jpg
 ├── index.html
 ├── cv.html
+
 css/: Contains all the CSS files for different sections of the website.
 images/: Contains the profile picture and any other images used in the project.
 index.html: The main HTML file for the homepage.
