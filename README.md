@@ -89,6 +89,7 @@ MP-Personal-Profile/
 |   └── styles.css
 ├── images
 ├── index.html
+├── README.md
 ├── cv.html
 ```
 
