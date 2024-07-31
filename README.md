@@ -87,10 +87,19 @@ MP-Personal-Profile/
 ├── index.html
 ├── cv.html
 
-css/: Contains all the CSS files for different sections of the website.
-images/: Contains the profile picture and any other images used in the project.
-index.html: The main HTML file for the homepage.
-cv.html: The HTML file for the resume/CV page.
+
+- **css/**: 
+  Contains all the CSS files for different sections of the website.
+
+- **images/**: 
+  Contains the profile picture and any other images used in the project.
+
+- **index.html**: 
+  The main HTML file for the homepage.
+
+- **cv.html**: 
+  The HTML file for the resume/CV page.
+
 
 Feel free to connect with me to discuss potential opportunities or collaborations.
 
