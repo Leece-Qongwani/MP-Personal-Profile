@@ -102,7 +102,7 @@ MP-Personal-Profile/
 - **cv.html**: 
   The HTML file for the resume/CV page.
 
-# The project is hosted on GitHub and Netlify
+### The project is hosted on GitHub and Netlify
 
 Feel free to connect with me to discuss potential opportunities or collaborations.
 
