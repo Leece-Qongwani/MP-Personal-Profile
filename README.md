@@ -24,6 +24,8 @@ You can view the live demo of the project [here](https://leece-qongwani.github.i
 - **Resume/CV Section**: View and download my resume.
 - **Contact Section**: Information on how to contact me.
 - **Smooth Scrolling**: Smooth navigation between sections.
+- - **Responsive Design**: 
+  The website is fully responsive and works on all devices.
 
 ## Technologies Used
 
