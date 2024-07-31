@@ -43,7 +43,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/virtual-cv.git
+   git clone https://github.com/Leece-Qongwani/MP-Personal-Profile.git
 Navigate to the project directory
 bash
 Copy code
@@ -61,8 +61,6 @@ Contact: Ways to get in touch.
 Folder Structure
 The folder structure of the project is as follows:
 
-arduino
-Copy code
 virtual-cv/
 ├── css/
 │   ├── styles.css
@@ -75,6 +73,7 @@ virtual-cv/
 │   ├── profilepic.jpg
 ├── index.html
 ├── cv.html
+
 css/: Contains all the CSS files for different sections of the website.
 images/: Contains the profile picture and any other images used in the project.
 index.html: The main HTML file for the homepage.
