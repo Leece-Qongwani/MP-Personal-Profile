@@ -78,14 +78,16 @@ The folder structure of the project is as follows:
 ```bash
 MP-Personal-Profile/
 ├── css/
-│   ├── styles.css
-│   ├── skills.css
-│   ├── contact.css
-│   ├── projects.css
 │   ├── aboutme.css
-│   └── footer.css
-├── images/
-│   └── profilepic.jpg
+│   ├── contact.css
+│   ├── footer.css
+│   ├── project.css
+│   ├── skills.css   
+│   └── styles.css
+├── files
+├── js/
+|    └── styles.css
+├── images
 ├── index.html
 ├── cv.html
 ```
