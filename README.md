@@ -86,7 +86,7 @@ MP-Personal-Profile/
 │   └── styles.css
 ├── files
 ├── js/
-|    └── styles.css
+|   └── styles.css
 ├── images
 ├── index.html
 ├── cv.html
