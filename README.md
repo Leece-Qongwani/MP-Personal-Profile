@@ -44,7 +44,6 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Leece-Qongwani/MP-Personal-Profile.git
 Navigate to the project directory:
-```bash
 Copy code
 cd MP-Personal-Profile
 Open the index.html file in your browser to view the website.
