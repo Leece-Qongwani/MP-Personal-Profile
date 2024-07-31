@@ -49,14 +49,27 @@ cd MP-Personal-Profile
 3. Open the index.html file in your browser to view the website.
    
 ## Usage
+
 The website is divided into several sections which are navigable through the top navigation bar:
 
-Home: Introduction and social media links.
-About Me: Brief bio and interests.
-Skills: List of technical skills.
-Projects: Details of notable projects.
-Resume/CV: Link to view and download resume.
-Contact: Ways to get in touch.
+- **Home**: 
+  Introduction and social media links.
+
+- **About Me**: 
+  Brief bio and interests.
+
+- **Skills**: 
+  List of technical skills.
+
+- **Projects**: 
+  Details of notable projects.
+
+- **Resume/CV**: 
+  Link to view and download resume.
+
+- **Contact**: 
+  Ways to get in touch.
+
 
 ## Folder Structure
 The folder structure of the project is as follows:
