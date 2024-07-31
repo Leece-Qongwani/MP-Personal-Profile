@@ -73,7 +73,7 @@ The website is divided into several sections which are navigable through the top
 
 ## Folder Structure
 The folder structure of the project is as follows:
-```
+```bash
 MP-Personal-Profile/
 ├── css/
 │   ├── styles.css
@@ -86,7 +86,7 @@ MP-Personal-Profile/
 │   └── profilepic.jpg
 ├── index.html
 ├── cv.html
-
+```
 
 - **css/**: 
   Contains all the CSS files for different sections of the website.
