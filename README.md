@@ -59,6 +59,7 @@ Contact: Ways to get in touch.
 
 ## Folder Structure
 The folder structure of the project is as follows:
+```bash
 MP-Personal-Profile/
 ├── css/
 │   ├── styles.css
