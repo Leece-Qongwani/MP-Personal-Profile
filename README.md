@@ -9,7 +9,6 @@ Welcome to the repository for my Virtual CV. This project is a personal portfoli
 - [Setup](#setup)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
-- [Contact](#contact)
 
 ## Demo
 
@@ -79,17 +78,8 @@ css/: Contains all the CSS files for different sections of the website.
 images/: Contains the profile picture and any other images used in the project.
 index.html: The main HTML file for the homepage.
 cv.html: The HTML file for the resume/CV page.
-Contact
-You can reach me through the following social media platforms:
 
-Facebook
-Instagram
-LinkedIn
-WhatsApp
 Feel free to connect with me to discuss potential opportunities or collaborations.
-
-vbnet
-Copy code
 
 This README includes all the sections you specified and ensures everything is formatted correctly. If you need additional details or modifications, let me know!
 
