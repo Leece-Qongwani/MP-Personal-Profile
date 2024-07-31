@@ -1,6 +1,3 @@
-Got it! I'll include everything you need in the README code, including proper formatting and a corrected setup. Here’s the revised version:
-
-```markdown
 # Virtual CV - Mxolisi Prince Qongwani
 
 Welcome to the repository for my Virtual CV. This project is a personal portfolio website showcasing my skills, projects, and contact information. It serves as an online CV that allows potential employers to view my resume, download it, and connect with me.
@@ -47,29 +44,25 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Leece-Qongwani/MP-Personal-Profile.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd MP-Personal-Profile
-   ```
-3. Open the `index.html` file in your browser to view the website.
-
-## Usage
-
+Navigate to the project directory:
+bash
+Copy code
+cd MP-Personal-Profile
+Open the index.html file in your browser to view the website.
+Usage
 The website is divided into several sections which are navigable through the top navigation bar:
 
-- **Home**: Introduction and social media links.
-- **About Me**: Brief bio and interests.
-- **Skills**: List of technical skills.
-- **Projects**: Details of notable projects.
-- **Resume/CV**: Link to view and download resume.
-- **Contact**: Ways to get in touch.
-
-## Folder Structure
-
+Home: Introduction and social media links.
+About Me: Brief bio and interests.
+Skills: List of technical skills.
+Projects: Details of notable projects.
+Resume/CV: Link to view and download resume.
+Contact: Ways to get in touch.
+Folder Structure
 The folder structure of the project is as follows:
 
-```
+css
+Copy code
 MP-Personal-Profile/
 ├── css/
 │   ├── styles.css
@@ -82,23 +75,25 @@ MP-Personal-Profile/
 │   └── profilepic.jpg
 ├── index.html
 ├── cv.html
-```
-
-- `css/`: Contains all the CSS files for different sections of the website.
-- `images/`: Contains the profile picture and any other images used in the project.
-- `index.html`: The main HTML file for the homepage.
-- `cv.html`: The HTML file for the resume/CV page.
-
-## Contact
-
+css/: Contains all the CSS files for different sections of the website.
+images/: Contains the profile picture and any other images used in the project.
+index.html: The main HTML file for the homepage.
+cv.html: The HTML file for the resume/CV page.
+Contact
 You can reach me through the following social media platforms:
 
-- [Facebook](#)
-- [Instagram](#)
-- [LinkedIn](#)
-- [WhatsApp](#)
-
+Facebook
+Instagram
+LinkedIn
+WhatsApp
 Feel free to connect with me to discuss potential opportunities or collaborations.
-```
+
+vbnet
+Copy code
 
 This README includes all the sections you specified and ensures everything is formatted correctly. If you need additional details or modifications, let me know!
+
+
+
+
+
