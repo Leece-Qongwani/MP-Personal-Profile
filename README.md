@@ -80,7 +80,6 @@ cv.html: The HTML file for the resume/CV page.
 
 Feel free to connect with me to discuss potential opportunities or collaborations.
 
-This README includes all the sections you specified and ensures everything is formatted correctly. If you need additional details or modifications, let me know!
 
 
 
